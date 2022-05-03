@@ -21,9 +21,7 @@ He enjoys cooking and playing ukulele,
 tinkers in Vim,
 and develops projects ranging from Dash interfaces to Snakemake pipelines!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rbpatt2019&show_icons=true&theme=github-dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbpatt2019&layout=compact&theme=github-dark&hide=jupyter_notebook" />
-</a>
+<p float="middle">
+  <img src="https://github-readme-stats.vercel.app/api?username=rbpatt2019&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbpatt2019&layout=compact&theme=github_dark&hide=jupyter_notebook" />
+</p>
