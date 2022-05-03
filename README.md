@@ -22,6 +22,6 @@ tinkers in Vim,
 and develops projects ranging from Dash interfaces to Snakemake pipelines!
 
 <p float="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbpatt2019&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rbpatt2019&show_icons=true&theme=github_dark" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbpatt2019&layout=compact&theme=github_dark&hide=jupyter_notebook" />
 </p>
