@@ -1,7 +1,3 @@
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbpatt2019" align=center/>
-</p>
-
 Ryan B Patterson-Cross is currently a computational biologist in the Bio2Core,
 Wellcome-MRC Institute of Metabolic Science,
 University of Cambridge,
@@ -27,16 +23,26 @@ and develops projects ranging from Dash interfaces to Snakemake pipelines!
 
 ### Stats
 
-<p float="middle">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbpatt2019"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rbpatt2019&show_icons=true&theme=github_dark" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbpatt2019&layout=compact&theme=github_dark&hide=jupyter_notebook" />
 </p>
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prql&repo=pyprql&theme=github_dark&show_owner=true)](https://github.com/prql/pyprql)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ims-bio2core-facility&repo=lta&theme=github_dark&show_owner=true)](https://github.com/ims-bio2core-facility/lta)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ims-bio2core-facility&repo=polya_liftover&theme=github_dark&show_owner=true)](https://github.com/ims-bio2core-facility/polya_liftover)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ims-bio2core-facility&repo=gtexquery&theme=github_dark&show_owner=true)](https://github.com/ims-bio2core-facility/gtexquery)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ims-bio2core-facility&repo=gtexsnake&theme=github_dark&show_owner=true)](https://github.com/ims-bio2core-facility/gtexsnake)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rbpatt2019&repo=chooser&theme=github_dark&show_owner=true)](https://github.com/rbpatt2019/chooser)
+<p align="center">
+  <span><a href="https://github.com/prql/pyprql"><img alt="PyPrql" src="https://github-readme-stats.vercel.app/api/pin/?username=prql&repo=pyprql&theme=github_dark&show_owner=true"></a>
+  <span><a href="https://github.com/ims-bio2core-facility/lta"><img alt="PyPrql" src="https://github-readme-stats.vercel.app/api/pin/?username=ims-bio2core-facility&repo=lta&theme=github_dark&show_owner=true"></a>
+</p>
+<p align="center">
+  <span><a href="https://github.com/ims-bio2core-facility/polya_liftover"><img alt="PyPrql" src="https://github-readme-stats.vercel.app/api/pin/?username=ims-bio2core-facility&repo=polya_liftover&theme=github_dark&show_owner=true"></a>
+  <span><a href="https://github.com/ims-bio2core-facility/gtexquery"><img alt="PyPrql" src="https://github-readme-stats.vercel.app/api/pin/?username=ims-bio2core-facility&repo=gtexquery&theme=github_dark&show_owner=true"></a>
+</p>
+<p align="center">
+  <span><a href="https://github.com/ims-bio2core-facility/gtexsnake"><img alt="PyPrql" src="https://github-readme-stats.vercel.app/api/pin/?username=ims-bio2core-facility&repo=gtexsnake&theme=github_dark&show_owner=true"></a>
+  <span><a href="https://github.com/rbpatt2019/chooser"><img alt="PyPrql" src="https://github-readme-stats.vercel.app/api/pin/?username=rbpatt2019&repo=chooser&theme=github_dark&show_owner=true"></a>
+</p>
