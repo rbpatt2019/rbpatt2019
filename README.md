@@ -22,4 +22,4 @@ tinkers in Vim,
 and develops projects ranging from Dash interfaces to Snakemake pipelines!
 
 [![rbpatt2019's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbpatt2019&show_icons=true&theme=github-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbpatt2019&layout=compact&theme=github-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbpatt2019&layout=compact&theme=github-dark&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
