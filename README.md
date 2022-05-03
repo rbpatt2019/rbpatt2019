@@ -1,3 +1,10 @@
+<p align="center">
+<a href="mailto:rb.patterson.cross@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="" height="30" width="40" /></a>
+<a href="https://rbpatt2019.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rb-patterson-cross/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://orcid.org/0000-0002-5349-1144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg" alt="OrcID" height="30" width="40" /></a>
+</p>
+
 Ryan B Patterson-Cross is currently a computational biologist in the Bio2Core,
 Wellcome-MRC Institute of Metabolic Science,
 University of Cambridge,
